@@ -1,2 +1,3 @@
 today: LinuxコマンドとGitを練習した
 next: pushしてPRを作成する
+pr: Pull Requestは変更を確認してもらうための依頼
