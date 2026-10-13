@@ -1,0 +1,2 @@
+today: LinuxコマンドとGitを練習した
+next: pushしてPRを作成する

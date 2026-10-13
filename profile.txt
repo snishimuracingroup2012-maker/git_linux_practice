@@ -1,0 +1,3 @@
+name: Sakina Nishimura
+favorite_language: Java
+goal: GitHubでPRを作れるようになる
